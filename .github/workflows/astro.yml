@@ -17,3 +17,4 @@ jobs:
       uses: astronomer/deploy-action@v0.16.0
       with:
         deployment-id: cmut7geri8rh301hgz45vuoc3
+        workspace: lesmills
